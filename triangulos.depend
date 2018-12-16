@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544918950 source:c:\users\felipe\desktop\triangulos\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<iomanip>
+	<stdio.h>
+	<sstream>
+
